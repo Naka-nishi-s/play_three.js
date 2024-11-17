@@ -1,0 +1,14 @@
+{
+  "name": "play_three",
+  "version": "1.0.0",
+  "description": "three.jsで遊ぶ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.170.0"
+  }
+}
